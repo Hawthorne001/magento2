@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^18",
-    "nuxt": "^3.5.3",
+    "nuxt": "^3.12.4",
     "@microsoft/api-documenter": "^7.13.30",
     "@microsoft/api-extractor": "7.18.1"
   },
